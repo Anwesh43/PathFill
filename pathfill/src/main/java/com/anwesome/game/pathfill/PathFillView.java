@@ -65,7 +65,7 @@ public class PathFillView  extends View{
                 }
             }
             try {
-                Thread.sleep(50);
+                Thread.sleep(20);
                 invalidate();
             }
             catch (Exception ex) {
